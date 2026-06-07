@@ -1,0 +1,2 @@
+# doc-share
+SEO content
